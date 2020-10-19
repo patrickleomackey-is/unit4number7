@@ -6,3 +6,4 @@ for (let i = 0; i <= 6;i++){
 salesTotal += dailySales[i];
 }
 document.write("$"+  salesTotal.toFixed(2) + " is this weeks total sales");
+/*This is a commment*/
